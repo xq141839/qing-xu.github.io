@@ -7,52 +7,52 @@ main:
   - title: "Rethinking the Adaptation of Vision Foundation Models for Efficient Cell Segmentation"
     authors: "<u>Qing Xu</u>, Xiangjian He, Wenting Duan, Jiebo Luo, Zhen Chen"
     conference_short: "MICCAI 2026"
-    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions"
+    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), 2026"
     code: "https://github.com/xq141839/EffiCell-Seg"
     selected: true
 
   - title: "RASP: Bridging the Long-Tail Gap in Surgical Video Understanding via Retrieval-Augmented Perception"
     authors: "Yuxiang Luo*, <u>Qing Xu</u>*, Yuqi Ouyang, Zhen Chen"
     conference_short: "MICCAI 2026"
-    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions"
+    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), 2026"
     selected: true
 
   - title: "SP-Det: Self-Prompted Dual-Text Fusion for Generalized Multi-Label Lesion Detection"
     authors: "<u>Qing Xu</u>, Yanqian Wang, Xiangjian He, Yue Li, Yixuan Zhang, Rong Qu, Wenting Duan, Zhen Chen"
     conference_short: "KBS 2026"
-    conference: "Knowledge-Based Systems"
+    conference: "Knowledge-Based Systems, 2026"
     # selected: true
 
   - title: "UniUltra: Interactive Parameter-Efficient SAM2 for Universal Ultrasound Segmentation"
     authors: "Yue Li*, <u>Qing Xu</u>*, Yixuan Zhang, Xiangjian He, Qian Zhang, Yuan Yao, Fiseha B Tesema, Xin Chen, Ruili Wang, Zhen Chen, et al."
     conference_short: "TMM 2026"
-    conference: "IEEE Transactions on Multimedia"
+    conference: "IEEE Transactions on Multimedia, 2026"
     selected: true
 
   - title: "FreqDINO: Frequency-Guided Adaptation for Generalized Boundary-Aware Ultrasound Image Segmentation"
     authors: "Yixuan Zhang*, <u>Qing Xu</u>*, Yue Li, Xiangjian He, Qian Zhang, Mainul Haque, Rong Qu, Wenting Duan, Zhen Chen"
     conference_short: "ISBI 2026"
-    conference: "IEEE International Symposium on Biomedical Imaging"
+    conference: "IEEE International Symposium on Biomedical Imaging (ISBI), 2026"
 
   - title: "TM-UNet: Token-Memory Enhanced Sequential Modeling for Efficient Medical Image Segmentation"
     authors: "Yaxuan Jiao*, <u>Qing Xu</u>*, Yuxiang Luo, Xiangjian He, Zhen Chen, Wenting Duan"
     conference_short: "ISBI 2026 (Oral)"
-    conference: "IEEE International Symposium on Biomedical Imaging"
+    conference: "IEEE International Symposium on Biomedical Imaging (ISBI), 2026"
 
   - title: "Towards Universal Ultrasound Analysis: Parameter-Efficient Foundation Model With Task-Aware Routing for Heterogeneous Multi-Task Learning"
     authors: "Yixuan Zhang*, <u>Qing Xu</u>*, Yue Li*, Xiangjian He, Zhen Chen."
     conference_short: "ISBI 2026"
-    conference: "IEEE International Symposium on Biomedical Imaging"
+    conference: "IEEE International Symposium on Biomedical Imaging (ISBI), 2026"
 
   - title: "CFFormer: Cross CNN-Transformer channel attention and spatial feature fusion for improved segmentation of heterogeneous medical images"
     authors: "Jiaxuan Li*, <u>Qing Xu</u>*, Xiangjian He, Ziyu Liu, Daokun Zhang, Ruili Wang, Rong Qu, Guoping Qiu"
     conference_short: "ESWA 2026"
-    conference: "Expert Systems with Applications"
+    conference: "Expert Systems with Applications, 2026"
 
   - title: "OMD: Optimal Transport-guided Multimodal Disentangled Learning for Leptomeningeal Metastasis Diagnosis"
     authors: "Shengjia Chen, Huihua Hu, Hongfu Zeng, Chenxin Li, <u>Qing Xu</u>, Longfeng Zhang, Haipeng Xu"
     conference_short: "INFFUS 2026"
-    conference: "Information Fusion"
+    conference: "Information Fusion, 2026"
 
   - title: "Synergistic hierarchical and graph attention networks for robust leptomeningeal metastasis detection in brain MRI"
     authors: "Haipeng Xu, Jing Sun, Qian Miao, Yaping Hong, <u>Qing Xu</u>, Chenxin Li, Huihua Hu, Gen Lin, Yunjian Huang"
@@ -62,7 +62,7 @@ main:
   - title: "RoLID-11K: A Dashcam Dataset for Small-Object Roadside Litter Detection"
     authors: "Tao Wu*, <u>Qing Xu</u>*, Xiangjian He, Oakleigh Weekes, James Brown, Wenting Duan"
     conference_short: "WACV Workshop 2026"
-    conference: "IEEE/CVF Winter Conference on Applications of Computer Vision Workshops"
+    conference: "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2026"
 
   # ==========================================
   # 2025 Publications
@@ -71,7 +71,7 @@ main:
   - title: "Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation"
     authors: "<u>Qing Xu</u>, Yuxiang Luo, Wenting Duan, Zhen Chen"
     conference_short: "TMI 2025"
-    conference: "IEEE Transactions on Medical Imaging"
+    conference: "IEEE Transactions on Medical Imaging, 2025"
     pdf: "https://ieeexplore.ieee.org/document/11299102"
     code: "https://github.com/xq141839/Co-Seg-Plus"
     page: "#"
@@ -80,7 +80,7 @@ main:
   - title: "De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation"
     authors: "<u>Qing Xu</u>*, Jiaxuan Li*, Xiangjian He, Chenxin Li, Fiseha Berhanu Tesema, Wenting Duan, Zhen Chen, Rong Qu, Jonathan M. Garibaldi, Chang Wen Chen"
     conference_short: "TCSVT 2025"
-    conference: "IEEE Transactions on Circuits and Systems for Video Technology"
+    conference: "IEEE Transactions on Circuits and Systems for Video Technology, 2025"
     pdf: "https://ieeexplore.ieee.org/abstract/document/11203003"
     code: "https://github.com/xq141839/De-LightSAM"
     selected: true
@@ -88,7 +88,7 @@ main:
   - title: "MambaVesselNet++: A Hybrid CNN-Mamba Architecture for Medical Image Segmentation"
     authors: "<u>Qing Xu</u>, Yanming Chen, Yue Li, Ziyu Liu, Zhenye Lou, Yixuan Zhang, Huizhong Zheng, Xiangjian He"
     conference_short: "TOMM 2025"
-    conference: "ACM Transactions on Multimedia Computing, Communications, and Applications"
+    conference: "ACM Transactions on Multimedia Computing, Communications, and Applications, 2025"
     pdf: "https://dl.acm.org/doi/abs/10.1145/3757324"
     code: "https://github.com/CC0117/MambaVesselNet"
     selected: true
@@ -96,7 +96,7 @@ main:
   - title: "Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation"
     authors: "<u>Qing Xu</u>, Wenting Duan, Zhen Chen"
     conference_short: "MICCAI 2025"
-    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions"
+    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), 2025"
     pdf: "https://link.springer.com/chapter/10.1007/978-3-032-04927-8_13"
     code: "https://github.com/xq141839/Co-Seg"
     selected: true
@@ -104,7 +104,7 @@ main:
   - title: "UN-SAM: Domain-adaptive self-prompt segmentation for universal nuclei images"
     authors: "Zhen Chen*, <u>Qing Xu</u>*, Xinyu Liu, Yixuan Yuan"
     conference_short: "MedIA 2025"
-    conference: "Medical Image Analysis"
+    conference: "Medical Image Analysis, 2025"
     pdf: "https://www.sciencedirect.com/science/article/pii/S1361841525001549"
     code: "https://github.com/CUHK-AIM-Group/UN-SAM"
     selected: true
@@ -112,22 +112,22 @@ main:
   - title: "NuSegDG: Integration of heterogeneous space and gaussian kernel for domain-generalized nuclei segmentation"
     authors: "Zhenye Lou*, <u>Qing Xu</u>*, Zekun Jiang, Xiangjian He, Chenxin Li, Zhen Chen, Yi Wang, Maggie M He, Wenting Duan"
     conference_short: "KBS 2025"
-    conference: "Knowledge-Based Systems"
+    conference: "Knowledge-Based Systems, 2025"
 
   - title: "Automated microvascular invasion prediction of hepatocellular carcinoma via deep relation reasoning from dynamic contrast-enhanced ultrasound"
     authors: "Yaoqin Wang, Wenting Xie, Chenxin Li, <u>Qing Xu</u>, Zhongshi Du, Zhaoming Zhong, Lina Tang"
     conference_short: "CMIG 2025"
-    conference: "Computerized Medical Imaging and Graphics"
+    conference: "Computerized Medical Imaging and Graphics, 2025"
 
   - title: "HFA-UNet: Hybrid and full attention UNet for thyroid nodule segmentation"
     authors: "Yue Li, Yuanhao Zou, Xiangjian He, <u>Qing Xu</u>, Ming Liu, Shengji Jin, Qian Zhang, Maggie M He, Jian Zhang"
     conference_short: "KBS 2025"
-    conference: "Knowledge-Based Systems"
+    conference: "Knowledge-Based Systems, 2025"
 
   - title: "Swin-VasMamba: A Topologically Constrained Model For 3D Vascular Segmentation"
     authors: "Ziyu Liu, Jiaxuan Li, Xiangjian He, <u>Qing Xu</u>, Xin Chen, Shoujun Zhou"
     conference_short: "ICASSP 2025"
-    conference: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+    conference: "IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025"
 
   # ==========================================
   # 2024 Publications
@@ -136,17 +136,17 @@ main:
   - title: "DualAttNet: Synergistic fusion of image-level and fine-grained disease attention for multi-label lesion detection in chest X-rays"
     authors: "<u>Qing Xu</u>, Wenting Duan"
     conference_short: "CIBM 2024"
-    conference: "Computers in Biology and Medicine"
+    conference: "Computers in Biology and Medicine, 2024"
 
   - title: "Flaws can be applause: Unleashing potential of segmenting ambiguous objects in SAM"
     authors: "Chenxin Li, Yuzhi Huang, Wuyang Li, Hengyu Liu, Xinyu Liu, <u>Qing Xu</u>, Zhen Chen, Yue Huang, Yixuan Yuan"
     conference_short: "NeurIPS 2024"
-    conference: "Advances in Neural Information Processing Systems"
+    conference: "Advances in Neural Information Processing Systems (NeurIPS), 2024"
 
   - title: "Med-FastSAM: Improving Transfer Efficiency of SAM to Domain-Generalised Medical Image Segmentation"
     authors: "Yuxiang Luo*, <u>Qing Xu</u>*, Jinglei Feng, Guangwu Qian, Wenting Duan"
     conference_short: "NeurIPS Workshop 2024"
-    conference: "Advances in Neural Information Processing Systems Workshop"
+    conference: "Advances in Neural Information Processing Systems (NeurIPS) Workshop, 2024"
     pdf: "https://openreview.net/forum?id=ZL1Vb8LuE1"
 
   # ==========================================
@@ -161,7 +161,7 @@ main:
   - title: "Sppnet: A single-point prompt network for nuclei image segmentation"
     authors: "<u>Qing Xu</u>, Wenwei Kuang, Zeyu Zhang, Xueyao Bao, Haoran Chen, Wenting Duan"
     conference_short: "MICCAI Workshop 2023"
-    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions Workshop"
+    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions (NeurIPS) Workshop, 2023"
 
   # ==========================================
   # 2021 Publications
@@ -170,4 +170,4 @@ main:
   - title: "An automatic nuclei image segmentation based on multi-scale split-attention U-Net"
     authors: "<u>Qing Xu</u>, Wenting Duan"
     conference_short: "MICCAI Workshop 2021"
-    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions Workshop"
+    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI) Workshop, 2021"
