@@ -1,22 +1,21 @@
 # Basic Information
-title: Dong-Dong Wu
-# chinese_name: 吴东冬
+title: Qing Xu
+# chinese_name: 
 position: Ph.D. Student
-affiliation: The University of Tokyo
-# email: 
+affiliation: University of Nottingham
+email: xq14183925@gmail.com
 
 # Search Engine Optimization (SEO)
-keywords: Dongdong Wu, machine learning, weakly supervised learning, partial label learning, diffusion model
-description: Dongdong Wu is a PhD student at The University of Tokyo. His research interests include Weakly Supervised Learning, Data-efficient Learning, AI Safety and Uncertainty in Large Model.
-canonical: https://wu-dd.github.io/
+keywords: Qing Xu, machine learning, medical image segmentation, deep learning, vision foundation models
+description: Qing Xu is a Ph.D. student at the University of Nottingham. His research interests include Medical Image Segmentation, Deep Learning, and Vision Foundation Models.
 
 # Links
-google_scholar: https://scholar.google.com/citations?hl=zh-CN&user=_Vx3dZgAAAAJ
+google_scholar: https://scholar.google.com/citations?user=IzA-Ij8AAAAJ&hl=en
 # cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/wu-dd
-linkedin: https://www.linkedin.com/in/dongdong-wu-5a332b27a/
+github_link: https://github.com/xq141839
+# linkedin: 
 # twitter:
-# bilibili: https://space.bilibili.com/3546681717033402
+# bilibili: 
 
 # Images (e.g., your profile picture and your website's favicon)
 avatar: /assets/img/profile1.jpg
