@@ -1,161 +1,173 @@
 main:
 
-  - title: "Positive–Unlabeled Reinforcement Learning Distillation for On-Premise Small Models"
-    authors: Zhiqiang Kou, Junyang Chen, Xin-Qiang Cai, Xiaobo Xia, Ming-Kun Xie, <u>Dong-Dong Wu</u>, Biao Liu, Yuheng Jia, Xin Geng, Masashi Sugiyama, Tat-Seng Chua
-    conference_short: "ICML 2026"
-    conference: "Proceedings of the 43rd International Conference on Machine Learning (ICML), 2026"
-    pdf: "https://openreview.net/pdf?id=WyQlim30lN"
-    code: "https://wu-dd.github.io/"
-    # research: Weakly Supervised Learning
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    # notes: Submitted
-    # image:
+  # ==========================================
+  # 2026 Publications
+  # ==========================================
 
-  - title: "Making Partial-Label Datasets Easier: A Simple Yet Highly Effective Data Augmentation for Deep Partial-Label Learning"
-    authors: "<u>Dong-Dong Wu</u>, Zhaoyi Li, Xiang Li, Zhiqiang Shen"
-    conference_short: "ECCV 2026"
-    conference: "The 19th European Conference on Computer Vision (ECCV), 2026"
-    pdf: "https://openreview.net/forum?id=swEVq3Ycr3"
+  - title: "Rethinking the Adaptation of Vision Foundation Models for Efficient Cell Segmentation"
+    authors: "<u>Qing Xu</u>, Xiangjian He, Wenting Duan, Jiebo Luo, Zhen Chen"
+    conference_short: "MICCAI 2026"
+    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions"
+    code: "https://github.com/xq141839/EffiCell-Seg"
     selected: true
-    code: "https://wu-dd.github.io/"
-    notes: "Also accepted in The 5th DataCV Workshop and Challenge with CVPR2026"
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    # image: "./assets/img/rscc_teaser.png"
-    # research: Weakly Supervised Learning
-    # notes: Submitted
 
-  - title: "DELTA: Robustly Training Diffusion Models with Weak Annotations"
-    authors: "<u>Dong-Dong Wu</u>, Jiacheng Cui, Wei Wang, Zhiqiang Shen, Masashi Sugiyama"
-    # conference_short: "NeurIPS 2025"
-    conference: "ICLR 2026 Workshop on Deep Generative Model in Machine Learning: Theory, Principle and Efficacy"
-    pdf: "https://openreview.net/forum?id=pXj6jc9jEr"
+  - title: "RASP: Bridging the Long-Tail Gap in Surgical Video Understanding via Retrieval-Augmented Perception"
+    authors: "Yuxiang Luo*, <u>Qing Xu</u>*, Yuqi Ouyang, Zhen Chen"
+    conference_short: "MICCAI 2026"
+    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions"
     selected: true
-    code: "https://wu-dd.github.io/"
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    # image: "./assets/img/rscc_teaser.png"
-    # research: Weakly Supervised Learning
-    # notes: Submitted
 
+  - title: "SP-Det: Self-Prompted Dual-Text Fusion for Generalized Multi-Label Lesion Detection"
+    authors: "<u>Qing Xu</u>, Yanqian Wang, Xiangjian He, Yue Li, Yixuan Zhang, Rong Qu, Wenting Duan, Zhen Chen"
+    conference_short: "KBS 2026"
+    conference: "Knowledge-Based Systems"
+    # selected: true
 
-  - title: "Accessible, Realistic, and Fair Evaluation of Positive-Unlabeled Learning Algorithms"
-    authors: "Wei Wang*, <u>Dong-Dong Wu</u>*, Ming Li, Jingxiong Zhang, Gang Niu, Masashi Sugiyama"
-    conference_short: "ICLR 2026"
-    conference: "Proceedings of the 14th International Conference on Learning Representations (ICLR), 2026"
-    pdf: "https://openreview.net/pdf?id=5R11h5o44C"
-    code: "https://github.com/wu-dd/PUBench"
+  - title: "UniUltra: Interactive Parameter-Efficient SAM2 for Universal Ultrasound Segmentation"
+    authors: "Yue Li*, <u>Qing Xu</u>*, Yixuan Zhang, Xiangjian He, Qian Zhang, Yuan Yao, Fiseha B Tesema, Xin Chen, Ruili Wang, Zhen Chen, et al."
+    conference_short: "TMM 2026"
+    conference: "IEEE Transactions on Multimedia"
     selected: true
-    # research: Weakly Supervised Learning
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    # notes: Submitted
-    # image:
 
-  - title: "A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1"
-    authors: "Zhaoyi Li, Xiaohan Zhao, <u>Dong-Dong Wu</u>, Jiacheng Cui, Zhiqiang Shen"
-    conference_short: "NeurIPS 2025"
-    conference: "The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025"
-    pdf: "https://openreview.net/forum?id=9xXjWwAoUF"
-    code: "https://github.com/VILA-Lab/M-Attack"
-    # research: AI safety
-    # page: "https://vila-lab.github.io/M-Attack-Website/"
-    # bibtex: "@misc{xxx}"
-    notes: "Also accepted in ICML 2025 Workshop on Reliable and Responsible Foundation Models"
-    # image:
+  - title: "FreqDINO: Frequency-Guided Adaptation for Generalized Boundary-Aware Ultrasound Image Segmentation"
+    authors: "Yixuan Zhang*, <u>Qing Xu</u>*, Yue Li, Xiangjian He, Qian Zhang, Mainul Haque, Rong Qu, Wenting Duan, Zhen Chen"
+    conference_short: "ISBI 2026"
+    conference: "IEEE International Symposium on Biomedical Imaging"
 
-  - title: "PLENCH: Realistic Evaluation of Deep Partial-Label Learning Algorithms"
-    authors: "Wei Wang, <u>Dong-Dong Wu</u>, Jindong Wang, Gang Niu, Min-Ling Zhang, Masashi Sugiyama"
-    conference_short: "ICLR 2025"
-    conference: "Proceedings of the 13th International Conference on Learning Representations (ICLR), 2025"
-    pdf: "https://arxiv.org/pdf/2502.10184"
-    code: "https://github.com/wwangwitsel/PLENCH"
-    # research: Weakly Supervised Learning
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    notes: Spotlight
-    # image:
+  - title: "TM-UNet: Token-Memory Enhanced Sequential Modeling for Efficient Medical Image Segmentation"
+    authors: "Yaxuan Jiao*, <u>Qing Xu</u>*, Yuxiang Luo, Xiangjian He, Zhen Chen, Wenting Duan"
+    conference_short: "ISBI 2026 (Oral)"
+    conference: "IEEE International Symposium on Biomedical Imaging"
 
-  - title: "Efficient Model Stealing Defense with Noise Transition Matrix"
-    authors: "<u>Dong-Dong Wu</u>, Chilin Fu, Weichang Wu, Wenwen Xia, Xiaolu Zhang, Jun Zhou, Min-Ling Zhang"
-    conference_short: "CVPR 2024"
-    conference: "Proceedings of the 35th IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024"
-    pdf: "https://ieeexplore.ieee.org/document/10658035"
-    code: "https://github.com/wu-dd/EMMA"
+  - title: "Towards Universal Ultrasound Analysis: Parameter-Efficient Foundation Model With Task-Aware Routing for Heterogeneous Multi-Task Learning"
+    authors: "Yixuan Zhang*, <u>Qing Xu</u>*, Yue Li*, Xiangjian He, Zhen Chen."
+    conference_short: "ISBI 2026"
+    conference: "IEEE International Symposium on Biomedical Imaging"
+
+  - title: "CFFormer: Cross CNN-Transformer channel attention and spatial feature fusion for improved segmentation of heterogeneous medical images"
+    authors: "Jiaxuan Li*, <u>Qing Xu</u>*, Xiangjian He, Ziyu Liu, Daokun Zhang, Ruili Wang, Rong Qu, Guoping Qiu"
+    conference_short: "ESWA 2026"
+    conference: "Expert Systems with Applications"
+
+  - title: "OMD: Optimal Transport-guided Multimodal Disentangled Learning for Leptomeningeal Metastasis Diagnosis"
+    authors: "Shengjia Chen, Huihua Hu, Hongfu Zeng, Chenxin Li, <u>Qing Xu</u>, Longfeng Zhang, Haipeng Xu"
+    conference_short: "INFFUS 2026"
+    conference: "Information Fusion"
+
+  - title: "Synergistic hierarchical and graph attention networks for robust leptomeningeal metastasis detection in brain MRI"
+    authors: "Haipeng Xu, Jing Sun, Qian Miao, Yaping Hong, <u>Qing Xu</u>, Chenxin Li, Huihua Hu, Gen Lin, Yunjian Huang"
+    conference_short: "ASOC 2026"
+    conference: "Applied Soft Computing (ASOC), 2026"
+
+  - title: "RoLID-11K: A Dashcam Dataset for Small-Object Roadside Litter Detection"
+    authors: "Tao Wu*, <u>Qing Xu</u>*, Xiangjian He, Oakleigh Weekes, James Brown, Wenting Duan"
+    conference_short: "WACV Workshop 2026"
+    conference: "IEEE/CVF Winter Conference on Applications of Computer Vision Workshops"
+
+  # ==========================================
+  # 2025 Publications
+  # ==========================================
+
+  - title: "Co-Seg++: Mutual Prompt-Guided Collaborative Learning for Versatile Medical Segmentation"
+    authors: "<u>Qing Xu</u>, Yuxiang Luo, Wenting Duan, Zhen Chen"
+    conference_short: "TMI 2025"
+    conference: "IEEE Transactions on Medical Imaging"
+    pdf: "https://ieeexplore.ieee.org/document/11299102"
+    code: "https://github.com/xq141839/Co-Seg-Plus"
+    page: "#"
     selected: true
-    # research: AI safety
-    # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_CVPR'24.pdf"
-    # bibtex: "@misc{xxx}"
-    # image:
 
-  - title: "Robust Representation Learning for Unreliable Partial Label Learning"
-    authors: "Yu Shi*, <u>Dong-Dong Wu</u>*, Xin Geng, Min-Ling Zhang"
-    conference_short: "arXiv 2024"
-    conference: "arXiv preprint, 2024"
-    pdf: "https://arxiv.org/pdf/2308.16718.pdf"
-    code: "https://github.com/wu-dd/URRL"
+  - title: "De-LightSAM: Modality-Decoupled Lightweight SAM for Generalizable Medical Segmentation"
+    authors: "<u>Qing Xu</u>*, Jiaxuan Li*, Xiangjian He, Chenxin Li, Fiseha Berhanu Tesema, Wenting Duan, Zhen Chen, Rong Qu, Jonathan M. Garibaldi, Chang Wen Chen"
+    conference_short: "TCSVT 2025"
+    conference: "IEEE Transactions on Circuits and Systems for Video Technology"
+    pdf: "https://ieeexplore.ieee.org/abstract/document/11203003"
+    code: "https://github.com/xq141839/De-LightSAM"
     selected: true
-    # research: Weakly Supervised Learning
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    # image:
 
-  - title: "Distilling Reliable Knowledge for Instance-dependent Partial Label Learning"
-    authors: "<u>Dong-Dong Wu</u>*, Deng-Bao Wang*, Min-Ling Zhang"
-    conference_short: "AAAI 2024"
-    conference: "Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI), 2024"
-    pdf: "https://ojs.aaai.org/index.php/AAAI/article/view/29519"
-    code: "https://github.com/wu-dd/DIRK"
+  - title: "MambaVesselNet++: A Hybrid CNN-Mamba Architecture for Medical Image Segmentation"
+    authors: "<u>Qing Xu</u>, Yanming Chen, Yue Li, Ziyu Liu, Zhenye Lou, Yixuan Zhang, Huizhong Zheng, Xiangjian He"
+    conference_short: "TOMM 2025"
+    conference: "ACM Transactions on Multimedia Computing, Communications, and Applications"
+    pdf: "https://dl.acm.org/doi/abs/10.1145/3757324"
+    code: "https://github.com/CC0117/MambaVesselNet"
     selected: true
-    # research: Weakly Supervised Learning
-    # page: "https://palm.seu.edu.cn/zhangml/files/Appendix_AAAI'24d.pdf"
-    # bibtex: "@misc{xxx}"
-    # image:
 
-  - title: "Revisiting consistency regularization for deep partial label learning"
-    authors: "<u>Dong-Dong Wu</u>*, Deng-Bao Wang*, Min-Ling Zhang"
-    conference_short: "ICML 2022"
-    conference: "Proceedings of the 39th International Conference on Machine Learning (ICML), 2022"
-    pdf: "https://proceedings.mlr.press/v162/wu22l.html"
-    code: "https://github.com/wu-dd/PLCR"
+  - title: "Co-Seg: Mutual Prompt-Guided Collaborative Learning for Tissue and Nuclei Segmentation"
+    authors: "<u>Qing Xu</u>, Wenting Duan, Zhen Chen"
+    conference_short: "MICCAI 2025"
+    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions"
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-032-04927-8_13"
+    code: "https://github.com/xq141839/Co-Seg"
     selected: true
-    # research: Weakly Supervised Learning
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    # image:
 
-  - title: "A new classification method based on the negation of a basic probability assignment in the evidence theory"
-    authors: "<u>Dongdong Wu</u>, Zijing Liu, Yongchuan Tang"
-    conference_short: "EAAI 2020"
-    conference: "Engineering Applications of Artificial Intelligence (EAAI), 2020, 96: 103985"
-    pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0952197620302864"
-    # research: Uncertainty
-    code: "https://wu-dd.github.io/"
-    # page: "https://wu-dd.github.io/"
-    # bibtex: "@misc{xxx}"
-    # image:
+  - title: "UN-SAM: Domain-adaptive self-prompt segmentation for universal nuclei images"
+    authors: "Zhen Chen*, <u>Qing Xu</u>*, Xinyu Liu, Yixuan Yuan"
+    conference_short: "MedIA 2025"
+    conference: "Medical Image Analysis"
+    pdf: "https://www.sciencedirect.com/science/article/pii/S1361841525001549"
+    code: "https://github.com/CUHK-AIM-Group/UN-SAM"
+    selected: true
 
-  - title: "A new approach for generation of generalized basic probability assignment in the evidence theory"
-    authors: "Yongchuan Tang, <u>Dongdong Wu</u>, Zijing Liu"
-    conference_short: "PAA 2021"
-    conference: "Pattern Analysis and Applications (PAA), 2021, 24(3): 1007-1023"
-    pdf: "https://link.springer.com/content/pdf/10.1007/s10044-021-00966-0.pdf"
-    # research: Uncertainty
-    code: "https://wu-dd.github.io/"
-    # page:
-    # bibtex:
-    notes: "ESI Highly Cited Paper (Top 1%)"
-    # image:
+  - title: "NuSegDG: Integration of heterogeneous space and gaussian kernel for domain-generalized nuclei segmentation"
+    authors: "Zhenye Lou*, <u>Qing Xu</u>*, Zekun Jiang, Xiangjian He, Chenxin Li, Zhen Chen, Yi Wang, Maggie M He, Wenting Duan"
+    conference_short: "KBS 2025"
+    conference: "Knowledge-Based Systems"
 
-  - title: "An improved failure mode and effects analysis method based on uncertainty measure in the evidence theory"
-    authors: "<u>Dongdong Wu</u>, Yongchuan Tang"
-    conference_short: "QRE 2020"
-    conference: "Quality and Reliability Engineering International (QRE), 2020; 36(5): 1786–1807"
-    pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/qre.2660"
-    # research: Uncertainty
-    code: "https://wu-dd.github.io/"
-    # page:
-    # bibtex:
-    notes: 'ESI Highly Cited Paper (Top 1%), <span class="paper-asset"><a href="assets/files/Top Cited Article 2020-2021.pdf">Certificate</a></span>'
-    # image:
+  - title: "Automated microvascular invasion prediction of hepatocellular carcinoma via deep relation reasoning from dynamic contrast-enhanced ultrasound"
+    authors: "Yaoqin Wang, Wenting Xie, Chenxin Li, <u>Qing Xu</u>, Zhongshi Du, Zhaoming Zhong, Lina Tang"
+    conference_short: "CMIG 2025"
+    conference: "Computerized Medical Imaging and Graphics"
+
+  - title: "HFA-UNet: Hybrid and full attention UNet for thyroid nodule segmentation"
+    authors: "Yue Li, Yuanhao Zou, Xiangjian He, <u>Qing Xu</u>, Ming Liu, Shengji Jin, Qian Zhang, Maggie M He, Jian Zhang"
+    conference_short: "KBS 2025"
+    conference: "Knowledge-Based Systems"
+
+  - title: "Swin-VasMamba: A Topologically Constrained Model For 3D Vascular Segmentation"
+    authors: "Ziyu Liu, Jiaxuan Li, Xiangjian He, <u>Qing Xu</u>, Xin Chen, Shoujun Zhou"
+    conference_short: "ICASSP 2025"
+    conference: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+
+  # ==========================================
+  # 2024 Publications
+  # ==========================================
+
+  - title: "DualAttNet: Synergistic fusion of image-level and fine-grained disease attention for multi-label lesion detection in chest X-rays"
+    authors: "<u>Qing Xu</u>, Wenting Duan"
+    conference_short: "CIBM 2024"
+    conference: "Computers in Biology and Medicine"
+
+  - title: "Flaws can be applause: Unleashing potential of segmenting ambiguous objects in SAM"
+    authors: "Chenxin Li, Yuzhi Huang, Wuyang Li, Hengyu Liu, Xinyu Liu, <u>Qing Xu</u>, Zhen Chen, Yue Huang, Yixuan Yuan"
+    conference_short: "NeurIPS 2024"
+    conference: "Advances in Neural Information Processing Systems"
+
+  - title: "Med-FastSAM: Improving Transfer Efficiency of SAM to Domain-Generalised Medical Image Segmentation"
+    authors: "Yuxiang Luo*, <u>Qing Xu</u>*, Jinglei Feng, Guangwu Qian, Wenting Duan"
+    conference_short: "NeurIPS Workshop 2024"
+    conference: "Advances in Neural Information Processing Systems Workshop"
+    pdf: "https://openreview.net/forum?id=ZL1Vb8LuE1"
+
+  # ==========================================
+  # 2023 Publications
+  # ==========================================
+
+  - title: "DCSAU-Net: A deeper and more compact split-attention U-Net for medical image segmentation"
+    authors: "<u>Qing Xu</u>, Zhicheng Ma, Wenting Duan, et al."
+    conference_short: "CIBM 2023"
+    conference: "Computers in Biology and Medicine"
+
+  - title: "Sppnet: A single-point prompt network for nuclei image segmentation"
+    authors: "<u>Qing Xu</u>, Wenwei Kuang, Zeyu Zhang, Xueyao Bao, Haoran Chen, Wenting Duan"
+    conference_short: "MICCAI Workshop 2023"
+    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions Workshop"
+
+  # ==========================================
+  # 2021 Publications
+  # ==========================================
+
+  - title: "An automatic nuclei image segmentation based on multi-scale split-attention U-Net"
+    authors: "<u>Qing Xu</u>, Wenting Duan"
+    conference_short: "MICCAI Workshop 2021"
+    conference: "International Conference on Medical Image Computing and Computer Assisted Interventions Workshop"
