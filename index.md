@@ -15,8 +15,6 @@ Currently, my research interests primarily lie in **Medical Image Analysis**, **
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/experiences.md %}
-
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/talks.md %}
